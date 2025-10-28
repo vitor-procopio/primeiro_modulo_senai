@@ -13,7 +13,10 @@ ativ2.py	Soma simples — Entrada e operações	⭐
 exercicio1.py	Média escolar — 3 notas	⭐
 
 exercicio2.py	Cálculo de IMC — Saúde	⭐⭐
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ➕ Operações Matemáticas
 
 Arquivo	Operações	Conceitos
@@ -28,7 +31,10 @@ ativ6.py	Números ímpares	while com contador
 ativ8.py	Números pares	while incremental
 ativ7.py	Média escolar	while com acumulador
 ativ5.py	Média com interrupção	while True, break
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🎮 Programas Interativos
 Arquivo	Tipo	Descrição
 ativ4.py	🎯 Charada	"Charada da fruta"
@@ -39,7 +45,10 @@ exercicio6.py	📊 Calculadora	Média dinâmica com interação
 Arquivo	Descrição	Destaque
 exercicio7.py	Números ímpares	for + range()
 exercicio8.py	Média com lista	for, listas, sum()
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🆕 Recursos Modernos
 Arquivo	Recurso	Versão
 ativ3.py	match-case	Python 3.10+
