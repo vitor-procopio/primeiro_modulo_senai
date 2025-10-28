@@ -7,9 +7,13 @@ Ideal para iniciantes que querem entender desde o “Olá Mundo” até estrutur
 🎯 Exercícios Básicos
 Arquivo	Descrição	Dificuldade
 ativ1.py	Olá Mundo — Primeiro programa	⭐
+
 ativ2.py	Soma simples — Entrada e operações	⭐
+
 exercicio1.py	Média escolar — 3 notas	⭐
+
 exercicio2.py	Cálculo de IMC — Saúde	⭐⭐
+
 ➕ Operações Matemáticas
 Arquivo	Operações	Conceitos
 exercicio3.py	Multiplicação, Divisão, Subtração	float(), operadores matemáticos
