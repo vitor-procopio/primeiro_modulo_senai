@@ -40,6 +40,8 @@ Arquivo	Tipo	Descrição
 ativ4.py	🎯 Charada	"Charada da fruta"
 exercicio5.py	🎯 Charada	"Buraco negro"
 exercicio6.py	📊 Calculadora	Média dinâmica com interação
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔁 Estruturas de Repetição — FOR
 Arquivo	Descrição	Destaque
