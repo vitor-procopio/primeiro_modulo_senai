@@ -141,8 +141,4 @@ Experimente fazer variações dos códigos
 
 Use print() para debuggar
 
-🐛 Solução de Problemas
-Erro	Causa	Solução
-❌ Erro de versão	Usando Python antigo	Atualize para Python 3.10+
-⚠️ Entrada inválida	Falta de validação	Teste com diferentes valores
-🔁 Loop infinito	Condição incorreta	Revise o while ou adicione break
+
